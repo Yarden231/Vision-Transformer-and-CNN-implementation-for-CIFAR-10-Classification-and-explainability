@@ -1,7 +1,5 @@
 # Vision Transformer and CNN implementation for CIFAR 10 Classification and explainability
 
-# CIFAR-10 Classification with CNNs and Vision Transformers
-
 This project implements and compares two deep learning architectures — **Convolutional Neural Networks (CNNs)** and **Vision Transformers (ViTs)** — on the CIFAR-10 image classification benchmark. Both models are implemented **from scratch** using PyTorch. The project includes full training pipelines, model explainability (via Grad-CAM and self-attention visualizations), and experiment tracking with Weights & Biases.
 
 ---
@@ -97,6 +95,6 @@ Evaluates class-level performance and misclassifications.
 **Yarden Cohen**
 M.Sc. Student in Data Science
 Ben-Gurion University of the Negev
-[LinkedIn](https://www.linkedin.com/in/yarden-cohen)
+[LinkedIn](https://www.linkedin.com/in/yarden-cohen2/)
 
 
