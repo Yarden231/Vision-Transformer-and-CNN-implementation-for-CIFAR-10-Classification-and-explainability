@@ -45,7 +45,7 @@ pip install -r requirements.txt
 To train and evaluate the models:
 
 ```bash
-jupyter notebook YC_209496132.ipynb
+jupyter notebook cnn_vit_cifar10.ipynb
 ```
 
 Make sure to initialize Weights & Biases with your account:
